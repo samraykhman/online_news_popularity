@@ -4,4 +4,4 @@ The original goal of the project was to be able to predict the amount of shares 
 
 From the data I can declare that ...... was statistically significant and has an affect on the number of shares received.
 
-If I had more time, I would have liked to use my K-Best/F-Test and Recursive Feature Elimination models. Unfortunately, they were taking too much time to run and I did not have enough time to let them completely run their course. 
+If I had more time, I would have liked to use my K-Best/F-Test and Recursive Feature Elimination models. Unfortunately, they were taking too much time to run and I did not have enough time to let them completely run their course. I would also have liked to run more OLS models where I am comparing the affect of several different variables on my target, rather than focusing on similar categorical variables for each OLS.
